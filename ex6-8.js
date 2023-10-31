@@ -4,4 +4,4 @@ function hanako68(){ document.getElementById('who68').innerHTML='花子';}
 function gazo688(){ document.getElementById('who688').innerHTML='<img src="./image/riza-donn.jpg" alt="オン">';}
 
 
-function imgchange2(){ document.getElementById('who688').src='./image/hitokage.jpg';}
+
