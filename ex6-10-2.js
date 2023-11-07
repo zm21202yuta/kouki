@@ -1,9 +1,9 @@
-function imgchange1(){
+function imgchange3(){
   document.getElementById('poke').src =
-    './image/';
+    './image/hitokage.jpg';
 }
 
-function imgchange2(){
+function imgchange4(){
   document.getElementById('poke').src =
     './image/';
 }
