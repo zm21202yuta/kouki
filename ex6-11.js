@@ -11,7 +11,7 @@ else{
 //すべて表示されたら、空文字に戻す 
 document.timer.moji.value="";}}
   function startfnc(){//関数hyouji()を1000ミリ秒間隔で呼び出す
-  setinterval("hyouji()",1000);}
+  setInterval("hyouji()",1000);}
   
 const str='Mozilla';
 console.log(str.substr(1,2));
