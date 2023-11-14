@@ -15,3 +15,4 @@ if(document.getElementById){
   document.henkou.elements[0].disabled=false;
   clearTimeout(timer1);}}}
 
+//　https://www.pazru.net/js/timer/4.html 参照
