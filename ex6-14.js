@@ -1,8 +1,8 @@
 var image=new Array();
 image[0]=new Image();
-image[0].src="img/hitokage.jpg";
+image[0].src="image/hitokage.jpg";
 image[1]=new Image();
-image[1].src="img/riza-donn.jpg";
+image[1].src="image/riza-donn.jpg";
 var cnt=0;
 function henkou14(){
 if(document.getElementById){
