@@ -13,6 +13,6 @@ if(document.getElementById){
     var timer1=setTimeout("henkou14()",3000);}else{
   cnt=0;
   document.henkou.elements[0].disabled=false;
-  clearTimeout(timer1);}}}
+  clearTimeout(timer1);}}
 
 //　https://www.pazru.net/js/timer/4.html 参照
