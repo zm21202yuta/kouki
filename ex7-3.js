@@ -1,7 +1,7 @@
 function BMI() {
-    var height = Number(document.getElementById('height').value) / 100; 
-    var weight = Number(document.getElementById('weight').value);
-    var bmi = weight / (height * height);
+    var cm = Number(document.getElementById('cm').value) / 100; 
+    var kg = Number(document.getElementById('kg').value);
+    var bmi = kg / (cm * cm);
 
     alert('あなたのBMIは ' + bmi + ' です。');
 }
